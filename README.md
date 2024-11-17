@@ -127,6 +127,7 @@ The project follows a **three-tier architecture** deployed on AWS. This architec
 2. **Application Tier**: Processes business logic.
 3. **Database Tier**: Stores persistent data.
 
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/three%20tier%20diagram.png)
 
 #### **Description of the Three-Tier Setup**  
 
@@ -346,15 +347,26 @@ The project follows a **three-tier architecture** deployed on AWS. This architec
 - Provide a visual representation of the architecture, including:  
   - VPC with public and private subnets.  
   - Load Balancer, EC2 instances, and RDS placement.  
-  *(Use tools like draw.io, Lucidchart, or AWS Architecture Icons.)*
-
+ 
 #### **AWS Management Console Screenshots**  
-1. **Load Balancer**:  
-   - Show configurations like listeners, target groups, and health checks.  
-2. **EC2 Instances**:  
-   - Display instance details, including security groups and private IP addresses.  
-3. **RDS Configuration**:  
-   - Include snapshots of RDS instance properties, such as endpoint, security groups, and multi-AZ settings.
+**Load Balancer**:
+
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/lb.png)
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/apptier-lb.png)
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/webtier-lb.png)
+
+**EC2 Instances**:  
+
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/app%20ec2.png)
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/web%20ec2.png)
+
+**RDS Configuration**:  
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/rds.png)
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/cbe44125ff3f7e895c6430d7494d97e0c09f5b4e/application-code/project%20ss/db%20subnet%20group.png)
+
+
+**Final Working**:
+[Watch the video](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/81ecc78e845fa3ac58808fa1e6891d55b7c07cb6/application-code/project%20ss/three%20tier%20.mp4)
 
 ---
 
