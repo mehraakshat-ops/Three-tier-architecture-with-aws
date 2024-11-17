@@ -366,7 +366,8 @@ The project follows a **three-tier architecture** deployed on AWS. This architec
 
 
 **Final Working**:
-[Watch the video](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/81ecc78e845fa3ac58808fa1e6891d55b7c07cb6/application-code/project%20ss/three%20tier%20.mp4)
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/079c062b171894a98ba0785a43764dca3de03323/application-code/project%20ss/final%20ss%201.png)
+![alt text](https://github.com/mehraakshat-ops/Three-tier-architecture-with-aws/blob/079c062b171894a98ba0785a43764dca3de03323/application-code/project%20ss/final%20ss%202.png)
 
 ---
 
