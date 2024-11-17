@@ -5,7 +5,6 @@
 1. [Introduction](#introduction)
    - [Overview of the Project](#overview-of-the-project)
    - [Purpose and Goals](#purpose-and-goals)
-   - [Your Role in the Project (AWS Infrastructure Setup)](#your-role-in-the-project-aws-infrastructure-setup)
 
 2. [Architecture](#architecture)
    - [High-Level Architecture Diagram](#high-level-architecture-diagram)
@@ -19,8 +18,7 @@
      - [EC2](#ec2)
      - [Elastic Load Balancer (ELB)](#elastic-load-balancer-elb)
      - [RDS](#rds)
-     - [S3 (if used)](#s3-if-used)
-   - [Other Tools (e.g., Terraform/CloudFormation, if applicable)](#other-tools-eg-terraformcloudformation-if-applicable)
+     - [S3](#s3)
 
 4. [Infrastructure Setup](#infrastructure-setup)
    - [Steps to Set Up](#steps-to-set-up)
@@ -37,13 +35,12 @@
 5. [Deployment Process](#deployment-process)
    - [Step-by-Step Guide to Recreate the Setup](#step-by-step-guide-to-recreate-the-setup)
      - [Using AWS Console](#using-aws-console)
-     - [Any Automation Scripts (e.g., Bash, Terraform, or CloudFormation)](#any-automation-scripts-eg-bash-terraform-or-cloudformation)
+    
 
 6. [Validation](#validation)
    - [Testing Infrastructure](#testing-infrastructure)
      - [Verifying Load Balancer Connectivity](#verifying-load-balancer-connectivity)
      - [Ensuring EC2 and RDS Communication](#ensuring-ec2-and-rds-communication)
-   - [Sample Outputs/Logs (if available)](#sample-outputslogs-if-available)
 
 7. [Challenges and Solutions](#challenges-and-solutions)
    - [Key Challenges Faced](#key-challenges-faced)
