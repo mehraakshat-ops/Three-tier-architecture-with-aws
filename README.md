@@ -16,7 +16,7 @@
 
 3. [Technologies Used](#technologies-used)
    - [AWS Services]
-     - [EC2](#ec2)
+     - [EC2]
      - [Elastic Load Balancer (ELB)]
      - [RDS]
      - [S3]
